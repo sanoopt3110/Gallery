@@ -1,0 +1,17 @@
+.p-dialog-content{
+    overflow: hidden;
+}
+.footer-el{
+    margin-top: 28px;
+}
+
+.p-float-label{
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.form{
+    margin-top: 18px;
+    padding: 4px;
+}
